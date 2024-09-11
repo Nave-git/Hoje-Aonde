@@ -42,6 +42,3 @@ O [Nome do Aplicativo] é um aplicativo multifuncional que combina a pesquisa de
 **Como Começar?**
 Baixe o Hoje é Aonde na App Store ou Google Play, crie uma conta e comece a explorar uma infinidade de eventos e experiências que esperam por você. Com o [Nome do Aplicativo], a diversão está a apenas alguns toques de distância!
 
----
-
-Espero que essa apresentação ajude a transmitir de maneira clara e atraente as funcionalidades e benefícios do seu aplicativo!
