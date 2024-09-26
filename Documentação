@@ -1,1 +1,321 @@
+TELA HOME:
+Titulo em cima
+Descrição : Hoje é aonde?
+Botão sino de notificação:
+Descrição: Ao clicar o usuário é direcionado para ver as notificações recebidas.
+Botão adicionar amigos:
+Descrição: Ao clicar o Usuário é direcionado para tela onde poderá adicionar e ver amigos.
+Botão de conversa:
+Descrição: Ao clicar o Usuário é direcionado para tela de conversas ou iniciar uma nova conversa.
+Subtítulo:
+Descrição: Subtítulo escrito Popular irá mostrar eventos e lugares populares.
+Imagens dos eventos:
+Descrição: Mostrará eventos e lugares. Ao clicar será direcionado para detalhes como lugar horário e possível compra
+de ingresso.
+Botão de salvar evento:
+Descrição: Dentro da imagem do evento tem um botão para salvar o evento que você achou interessante.
+Botão de Explorar:
+Descrição: Ao clicar poderá explorar eventos e lugares em regiões mais especificas.
+Botão Home:
+Descrição: como estamos na pagina principal ao clicar a pagina volta e lá pra cima.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
 
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE BUSCA-ENCONTRE SEU ROLÊ:
+Botão de voltar:
+Descrição: Ao clicar o usuário é direcionado para tela Principal a home.
+Mapa:
+Descrição: O mapa mostrará eventos que estão acontecendo ou irá acontecer.
+Pop-up de busca:
+Descrição: O usuário será capaz de procurar algum evento especifico.
+Eventos de sugestões:
+Descrição: Ao digitar a sua busca aparecerá sugestões de eventos e o evento especifico que o usuário esta procurando.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+TELA DE FILTRO DE PESQUISA:
+Mapa:
+Descrição: O mapa mostrará eventos que estão acontecendo ou irá acontecer.
+Botões de filtragem:
+Descrição: data que os eventos irão acontecer com opções de selecionar a filtragem e procurar evento que acontecerá
+opções de filtragem : “hoje, amanhã ou essa semana.’’
+Botão calendário:
+Descrição: Filtrar por data especifica no mês.
+Botão de localização:
+Descrição: para selecionar a região que o usuário quer filtra.
+Botão de cancelar:
+Descrição: Cancela toda a filtragem e volta para tela de busca sem filtrar nada.
+Botão de confirmar: Volta para tela de busca agora aparecerá no mapa eventos e também aparecerá ao buscar algum
+evento especifico que irá acontecer de acordo com a filtragem.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE DESCRIÇÃO DO EVENTO:
+Botão de voltar- funcional.
+Descrição: Ao clicar volta para tela anterior de onde escolheu o evento.
+Botão de carrinho- funcional.
+Descrição: irá direcionar para o carrinho de compra.
+Botão de salvar- funcional.
+Descrição: salva em favoritos os eventos de interesse.
+Titulo do evento- não funcional.
+Descrição: irá conter informações como titulo horário local
+Descrição do evento.
+Botão de ver ingresso:
+Descrição Ao clicar o usuário irá ser direcionado para compra de ingresse.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE FAVORITOS:
+Botão de voltar:
+Descrição: Volta para a última tela que o usuário estava.
+Botão de desfavoritar:
+Descrição: Ao clicar o usuário exclui o evento de favoritos e não aparecerá mais em favoritos.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+TELA DE PERFIL:
+Botão de menu:
+Descrição: aparecera as configurações.
+Botão de editar perfil:
+Descrição: Ao clicar o usuário será capaz de editar seu perfil com dados de sua conta.
+Botão de compartilhar:
+Descrição: Ao clicar o usuário será capaz de compartilhar seu perfil do app através de outras plataformas como face
+book, WhatsApp ou Instagram.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+TELA DE CARTEIRA:
+Botão de voltar:
+Descrição: Volta para tela anterior.
+Botão de salvar evento:
+Descrição: Ao clicar salva o evento como favoritos.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+Tela de compra de ingresso:
+Botão voltar:
+Descrição: volta para tela anterior.
+Botão de tipo de ingresso:
+Descrição: Opções de seleção : plateia , frisas , camarote A.
+Cada um com respectivo preço.
+imagem:
+descrição: Irá ajudar a identificar posições do ingresso adquirido em relação ao palco.
+Botão de selecionar setor:
+Descrição: Após selecionar tipo de ingresso o usuário ira ser direcionado para tela selecionar assento.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+---------------------------------------------------------------------------------------------------------
+
+
+TELA SELECIONAR ASSENTO:
+Botões para selecionar assento:
+Descrição: esses botão mostrará em verde os assentos disponíveis e em vermelho assentos ocupados.
+Nesses botões o usuário definira a quantidade de ingresso.
+Botão selecionar assento:
+Descrição: irá confirmar os assentos escolhido e a quantidade de ingresso e ira direcionar para a tela de resumo total.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+TELA DE RESUMO DO INGRESSO:
+Botão de voltar:
+Descrição: volta para a tela anterior.
+Botão de carrinho:
+Descrição: ira direcionar para o carrinho.
+Imagem:
+Descrição: ira mostrar os assentos escolhidos e a posição que o assento fica em relação ao palco.
+Resumo:
+Descrição: resume de forma detalhada o tipo de ingresso o assento escolhido e o valor e embaixo quanto ficou todos os
+ingressos somados.
+Botão de ir para pagamento:
+Descrição: irá ser direcionado para tela de compra.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE COMPRA- FORMA DE PAGAMENTO:
+Botão voltar:
+Descrição: volta para a tela anterior.
+Botão de carrinho:
+Descrição: abre o carrinho de compra.
+Seletor:
+Descrição: dois seletor para selecionar de forma de pagamento se vai ser em forma de cartão ou em Pix.
+Botão parcelas:
+Descrição: Ao clicar o usuário definirá em quantas parcelas quer dividir.
+Caixa de texto - 1.
+Descrição: nele o usuário colocará o nome impresso no cartão
+Caixa de texto - 2.
+Descrição: o usuário colocará o numero do cartão.
+Caixa de data:
+Descrição: o usuário insere a data de validade do cartão.
+Caixa de CVV:
+Descrição: o usuário insere o código de segurança (CVV) do cartão.
+Botão finalizar:
+Descrição: finalizar e confirma sua forma de pagamento para compra do ingresso.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE PARCELAMENTO:
+Seta:
+Descrição: volta para tela anterior.
+Carrinho de compra:
+Descrição: direciona para o carrinho.
+Seletor:
+Descrição: seleciona em quantas parcelas vai dividir.
+Botão de continuar:
+Descrição: ao clicar volta para o pagamento já com quantas parcelas o usuário definiu.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como título encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
+
+---------------------------------------------------------------------------------------------------------
+
+
+TELA DE COMPRA FINALIZADA:
+Botão de voltar:
+Descrição: como já finalizou a compra, o usuário será direcionado para a tela de ingresso.
+Botão de carrinho:
+Descrição: abre o carrinho de compra.
+Textos explicativos:
+Descrição: nesses textos irá conter informação que a compra foi finalizada com sucesso.
+Ingresso enviado para o e-mail cadastrado no app.
+Informações do evento comprado.
+Botão de compra finalizada.
+Descrição: usuário será direcionado para a carteira para ver o ingresso.
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como titulo encontre seu rolê.
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde conseguirá ver os detalhes como
+horário, endereço e a data.
