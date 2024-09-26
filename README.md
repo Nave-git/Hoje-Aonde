@@ -7,7 +7,7 @@ Lucas Pietro - https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=sha
 
 Luciano José - 
 
-Ronaldo Francisco - 
+Ronaldo Francisco - www.linkedin.com/in/ronaldo-francisco-07aaa332b
 
 Vinicius Augusto - https://www.linkedin.com/in/vin%C3%ADcius-augusto-807b232ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
