@@ -9,9 +9,9 @@ Luciano José -
 
 Ronaldo Francisco - 
 
-Vinicius Augusto - 
+Vinicius Augusto - https://www.linkedin.com/in/vin%C3%ADcius-augusto-807b232ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-Sidney Silva -
+Sidney Silva - https://www.linkedin.com/in/sidney-silva-7482824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Apresentação do Hoje é Aonde
 
