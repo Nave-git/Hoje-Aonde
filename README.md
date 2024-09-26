@@ -1,15 +1,17 @@
 # Hoje-Aonde
 https://github.com/Nave-git/Hoje-Aonde/invitations
 
-Grupo: Lucas Pietro,
+# Grupo:
 
-Luciano José,
+Lucas Pietro - https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Ronaldo Francisco,
+Luciano José - 
 
-Ronaldo Francisco 
+Ronaldo Francisco - 
 
-Sidney Silva.
+Vinicius Augusto - 
+
+Sidney Silva -
 
 # Apresentação do Hoje é Aonde
 
