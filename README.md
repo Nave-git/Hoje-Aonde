@@ -1,17 +1,25 @@
 # Hoje-Aonde
 https://github.com/Nave-git/Hoje-Aonde/invitations
 
-# Grupo:
+# Equipe do Projeto
 
-Lucas Pietro - https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Conheça os membros da nossa equipe:
 
-Luciano José - 
+- **Lucas Pietro**  
+  [LinkedIn](https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+- **Luciano José**  
+  (Perfil do LinkedIn não disponível)
 
-Ronaldo Francisco - www.linkedin.com/in/ronaldo-francisco-07aaa332b
+- **Ronaldo Francisco**  
+  [LinkedIn](https://www.linkedin.com/in/ronaldo-francisco-07aaa332b)
 
-Vinicius Augusto - https://www.linkedin.com/in/vin%C3%ADcius-augusto-807b232ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- **Vinícius Augusto**  
+  [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-augusto-807b232ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Sidney Silva - https://www.linkedin.com/in/sidney-silva-7482824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Sidney Silva**  
+  [LinkedIn](https://www.linkedin.com/in/sidney-silva-7482824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 # Apresentação do Hoje é Aonde
 
