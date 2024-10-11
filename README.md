@@ -27,7 +27,7 @@ Conheça os membros da nossa equipe:
 Bem-vindo ao Hoje é Aonde, a solução definitiva para descobrir e aproveitar o melhor do entretenimento e lazer na sua cidade. Seja você um entusiasta de eventos, um amante da gastronomia, um frequentador de teatros ou um cinéfilo ávido, nosso aplicativo foi projetado para tornar sua experiência cultural e social mais fácil e agradável.
 
 # O que é o Hoje é Aonde?
-O [Nome do Aplicativo] é um aplicativo multifuncional que combina a pesquisa de eventos e a compra de ingressos em uma única plataforma intuitiva. Nossa missão é conectar você às melhores experiências ao vivo e atividades locais, proporcionando uma maneira conveniente e eficiente de explorar e participar do que há de melhor na sua área.
+O Hoje é Aonde é um aplicativo multifuncional que combina a pesquisa de eventos e a compra de ingressos em uma única plataforma intuitiva. Nossa missão é conectar você às melhores experiências ao vivo e atividades locais, proporcionando uma maneira conveniente e eficiente de explorar e participar do que há de melhor na sua área.
 
 # Funcionalidades Principais
 
