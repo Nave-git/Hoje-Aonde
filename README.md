@@ -9,7 +9,7 @@ Conheça os membros da nossa equipe:
   [LinkedIn](https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 - **Luciano José**  
-  (Perfil do LinkedIn não disponível)
+  [LinkedIn](https://www.linkedin.com/in/luciano-492a86331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - **Ronaldo Francisco**  
   [LinkedIn](https://www.linkedin.com/in/ronaldo-francisco-07aaa332b)
